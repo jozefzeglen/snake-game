@@ -1,0 +1,13 @@
+body {
+    background-color: rgba(30, 83, 105, 0.909);
+    text-align: center;
+}
+h1 {
+    color: rgb(59, 13, 19);
+}
+canvas{
+    border: 5px solid rgb(189, 50, 69);
+}
+h2 {
+    color: rgb(59, 13, 19);
+}
